@@ -1,0 +1,36 @@
+{
+    "__comment": "Made by Bleidorb",
+    "display": {
+        "title": {
+            "text": "Welcome To HeroBriens Advancements Pack",
+            "color": "dark_gray",
+            "bold": true,
+            "italic": true,
+            "underlined": false,
+            "strikethrough": false,
+            "obfuscated": false
+        },
+        "description": {
+            "text": "Description",
+            "color": "dark_gray",
+            "bold": true,
+            "italic": true,
+            "underlined": false,
+            "strikethrough": false,
+            "obfuscated": true
+        },
+        "icon": {
+            "item": "minecraft:player_head"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false,
+        "background": "minecraft:textures/block/carved_pumpkin.png"
+    },
+    "criteria": {
+        "impossibruh": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

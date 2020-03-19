@@ -1,0 +1,94 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Travel Away from spawn",
+            "bold": true
+        },
+        "description": {
+            "text": "Begin you journey in minecraft",
+            "color": "gold",
+            "bold": true,
+            "italic": false,
+            "obfuscated": false
+        },
+        "icon": {
+            "item": "minecraft:stone_sword"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "loc1": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "dimension": "overworld",
+                "position": {
+                    "x": {
+                        "min": 1000
+                    },
+                    "y": {
+                        "min": 0,
+                        "max": 1000
+                    }
+                }
+            }
+        },
+        "loc2": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "dimension": "overworld",
+                "position": {
+                    "x": {
+                        "max": -1000
+                    },
+                    "y": {
+                        "min": 0,
+                        "max": 1000
+                    }
+                }
+            }
+        },
+        "loc3": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "dimension": "overworld",
+                "position": {
+                    "y": {
+                        "min": 0,
+                        "max": 1000
+                    },
+                    "z": {
+                        "min": 1000
+                    }
+                }
+            }
+        },
+        "loc4": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "dimension": "overworld",
+                "position": {
+                    "y": {
+                        "min": 0,
+                        "max": 1000
+                    },
+                    "z": {
+                        "max": -1000
+                    }
+                }
+            }
+        }
+    },
+    "requirements": [
+        [
+            "loc1",
+            "loc2",
+            "loc3",
+            "loc4"
+        ]
+    ],
+    "parent": "herobriens:root"
+}
