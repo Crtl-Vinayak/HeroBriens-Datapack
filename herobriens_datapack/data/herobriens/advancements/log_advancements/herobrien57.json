@@ -1,0 +1,39 @@
+{
+    "__comment": "Made by Bleidorb",
+    "display": {
+        "title": {
+            "text": "(1M Club) Warped Stem",
+            "color": "black",
+            "bold": true,
+            "italic": true,
+            "underlined": false,
+            "strikethrough": false,
+            "obfuscated": false
+        },
+        "description": {
+            "text": "Chop at least over 1 Million of warped stems",
+            "color": "blue",
+            "bold": true,
+            "italic": true,
+            "underlined": false,
+            "strikethrough": false,
+            "obfuscated": false
+        },
+        "icon": {
+            "item": "minecraft:warped_stem"
+        },
+        "frame": "goal",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "criteria": {
+        "imp": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "rewards": {
+        "experience": 1500
+    },
+    "parent": "herobriens:log_advancements/herobrien49"
+}

@@ -25,5 +25,4 @@ scoreboard objectives remove redMushroomBlock
 scoreboard objectives remove brownMushroom
 scoreboard objectives remove brownMushroomBlk
 
-#killed entity category
-scoreboard objectives remove killedCreepers
+#subcriteria category

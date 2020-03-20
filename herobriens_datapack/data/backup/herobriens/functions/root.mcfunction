@@ -25,7 +25,7 @@ scoreboard objectives add redMushroomBlock minecraft.mined:minecraft.red_mushroo
 scoreboard objectives add brownMushroom minecraft.mined:minecraft.brown_mushroom
 scoreboard objectives add brownMushroomBlk minecraft.mined:minecraft.brown_mushroom_block
 
-#killed entity category
-scoreboard objectives add killedCreepers minecraft.killed:minecraft.creeper
+#subcriteria category
+
 
 advancement grant @a only herobriens:root

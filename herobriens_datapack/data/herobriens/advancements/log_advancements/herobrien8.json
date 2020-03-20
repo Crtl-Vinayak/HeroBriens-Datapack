@@ -1,0 +1,36 @@
+{
+    "__comment": "Made by Bleidorb",
+    "display": {
+        "title": {
+            "text": "(Very Easy) Crimson Stem",
+            "color": "aqua",
+            "bold": true,
+            "italic": true,
+            "underlined": false,
+            "strikethrough": false,
+            "obfuscated": false
+        },
+        "description": {
+            "text": "Chop at least 10 crimson stems",
+            "color": "blue",
+            "bold": true,
+            "italic": true,
+            "underlined": false,
+            "strikethrough": false,
+            "obfuscated": false
+        },
+        "icon": {
+            "item": "minecraft:crimson_stem"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "imp": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "herobriens:herobrien1"
+}

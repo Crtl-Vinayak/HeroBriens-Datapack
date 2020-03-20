@@ -1,0 +1,36 @@
+{
+    "__comment": "Made by Bleidorb",
+    "display": {
+        "title": {
+            "text": "(Very Easy) Dark Oak Log",
+            "color": "aqua",
+            "bold": true,
+            "italic": true,
+            "underlined": false,
+            "strikethrough": false,
+            "obfuscated": false
+        },
+        "description": {
+            "text": "Chop at least 10 dark oak logs",
+            "color": "blue",
+            "bold": true,
+            "italic": true,
+            "underlined": false,
+            "strikethrough": false,
+            "obfuscated": false
+        },
+        "icon": {
+            "item": "minecraft:dark_oak_log"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "imp": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "herobriens:herobrien1"
+}

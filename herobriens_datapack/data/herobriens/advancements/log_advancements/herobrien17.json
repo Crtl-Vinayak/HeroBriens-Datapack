@@ -1,0 +1,36 @@
+{
+    "__comment": "Made by Bleidorb",
+    "display": {
+        "title": {
+            "text": "(Easy) Warped Stem",
+            "color": "blue",
+            "bold": true,
+            "italic": true,
+            "underlined": false,
+            "strikethrough": false,
+            "obfuscated": false
+        },
+        "description": {
+            "text": "Chop at least one stack of warped stems",
+            "color": "blue",
+            "bold": true,
+            "italic": true,
+            "underlined": false,
+            "strikethrough": false,
+            "obfuscated": false
+        },
+        "icon": {
+            "item": "minecraft:warped_stem"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "imp": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "herobriens:log_advancements/herobrien9"
+}
