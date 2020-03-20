@@ -2,8 +2,8 @@
     "__comment": "Made by Bleidorb",
     "display": {
         "title": {
-            "text": "(Very Easy) Birch Log",
-            "color": "aqua",
+            "text": "(Very Hard) Oak Log",
+            "color": "red",
             "bold": true,
             "italic": true,
             "underlined": false,
@@ -11,7 +11,7 @@
             "obfuscated": false
         },
         "description": {
-            "text": "Chop at least 10 birch logs",
+            "text": "Chop at least 1k stack of oak logs",
             "color": "blue",
             "bold": true,
             "italic": true,
@@ -20,7 +20,7 @@
             "obfuscated": false
         },
         "icon": {
-            "item": "minecraft:birch_log"
+            "item": "minecraft:oak_log"
         },
         "frame": "task",
         "show_toast": true,
@@ -32,5 +32,8 @@
             "trigger": "minecraft:impossible"
         }
     },
-    "parent": "herobriens:herobrien1"
+    "rewards": {
+        "experience": 200
+    },
+    "parent": "herobriens:herobrien26"
 }

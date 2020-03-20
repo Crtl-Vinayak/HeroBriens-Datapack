@@ -3,7 +3,7 @@
     "display": {
         "title": {
             "text": "(Easy) Birch Log",
-            "color": "green",
+            "color": "blue",
             "bold": true,
             "italic": true,
             "underlined": false,
