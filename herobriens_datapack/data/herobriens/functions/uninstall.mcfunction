@@ -26,4 +26,3 @@ scoreboard objectives remove brownMushroom
 scoreboard objectives remove brownMushroomBlk
 
 #subcriteria category
-scoreboard objectives remove walk_one_cm

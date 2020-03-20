@@ -26,6 +26,6 @@ scoreboard objectives add brownMushroom minecraft.mined:minecraft.brown_mushroom
 scoreboard objectives add brownMushroomBlk minecraft.mined:minecraft.brown_mushroom_block
 
 #subcriteria category
-scoreboard objectives add walk_one_cm minecraft.custom:minecraft.walk_one_cm
+
 
 advancement grant @a only herobriens:root

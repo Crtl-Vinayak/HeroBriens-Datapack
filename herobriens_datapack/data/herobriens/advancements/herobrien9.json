@@ -2,35 +2,35 @@
     "__comment": "Made by Bleidorb",
     "display": {
         "title": {
-            "text": "HeroBriens Advancements",
-            "color": "white",
-            "bold": false,
-            "italic": false,
+            "text": "(Very Easy) Warped Stem",
+            "color": "green",
+            "bold": true,
+            "italic": true,
             "underlined": false,
             "strikethrough": false,
             "obfuscated": false
         },
         "description": {
-            "text": "Welcome to the HeroBriens Custom Advancement DataPack (:",
-            "color": "gold",
-            "bold": false,
+            "text": "Chop at least 10 warped stems",
+            "color": "blue",
+            "bold": true,
             "italic": true,
             "underlined": false,
             "strikethrough": false,
             "obfuscated": false
         },
         "icon": {
-            "item": "minecraft:player_head"
+            "item": "minecraft:warped_stem"
         },
         "frame": "task",
         "show_toast": true,
         "announce_to_chat": true,
-        "hidden": false,
-        "background": "minecraft:textures/block/dragon_egg.png"
+        "hidden": false
     },
     "criteria": {
-        "impossibruh": {
+        "imp": {
             "trigger": "minecraft:impossible"
         }
-    }
+    },
+    "parent": "herobriens:herobrien1"
 }

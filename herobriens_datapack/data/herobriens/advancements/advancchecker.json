@@ -1,0 +1,27 @@
+{
+    "__comment": "Made by Bleidorb",
+    "display": {
+        "title": {
+            "text": "advancementChecker"
+        },
+        "description": {
+            "text": "Description"
+        },
+        "icon": {
+            "item": "minecraft:barrier"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": true
+    },
+    "criteria": {
+        "tickkk": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "rewards": {
+        "function": "herobriens:checker"
+    },
+    "parent": "herobriens:root"
+}
