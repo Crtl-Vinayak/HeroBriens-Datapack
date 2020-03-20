@@ -26,4 +26,69 @@ scoreboard objectives remove brownMushroom
 scoreboard objectives remove brownMushroomBlk
 
 #killed entity category
-scoreboard objectives remove killedCreepers
+scoreboard objectives remove batKilled
+scoreboard objectives remove beeKilled
+scoreboard objectives remove blazeKilled
+scoreboard objectives remove catKilled
+scoreboard objectives remove caveSpiderKilled
+scoreboard objectives remove chickenKilled
+scoreboard objectives remove codKilled
+scoreboard objectives remove cowKilled
+scoreboard objectives remove creeperKilled
+
+scoreboard objectives remove dolphinKilled
+scoreboard objectives remove donkeyKilled
+scoreboard objectives remove drownedKilled
+scoreboard objectives remove elderGuardianKd
+scoreboard objectives remove endermanKilled
+scoreboard objectives remove endermiteKilled
+scoreboard objectives remove evokerKilled
+scoreboard objectives remove foxKilled
+scoreboard objectives remove ghastKilled
+
+scoreboard objectives remove guardianKilled
+scoreboard objectives remove hoglinKilled
+scoreboard objectives remove horseKilled
+scoreboard objectives remove huskKilled
+scoreboard objectives remove llamaKilled
+scoreboard objectives remove magmaCubeKilled
+scoreboard objectives remove mooshroomKilled
+scoreboard objectives remove muleKilled
+scoreboard objectives remove ocelotKilled
+
+scoreboard objectives remove pandaKilled
+scoreboard objectives remove parrotKilled
+scoreboard objectives remove phantomKilled
+scoreboard objectives remove pigKilled
+scoreboard objectives remove piglinKilled
+scoreboard objectives remove pillagerKilled
+scoreboard objectives remove polarBearKilled
+scoreboard objectives remove pufferFishKilled
+scoreboard objectives remove rabbitKilled
+
+scoreboard objectives remove ravagerKilled
+scoreboard objectives remove salmonKilled
+scoreboard objectives remove sheepKilled
+scoreboard objectives remove shulkerKilled
+scoreboard objectives remove silverFishKilled
+scoreboard objectives remove skeletonKilled
+scoreboard objectives remove skeletonHorseKd
+scoreboard objectives remove slimeKilled
+scoreboard objectives remove spiderKilled
+
+scoreboard objectives remove squidKilled
+scoreboard objectives remove strayKilled
+scoreboard objectives remove traderLlamaKd
+scoreboard objectives remove tropicalFishKd
+scoreboard objectives remove turtleKilled
+scoreboard objectives remove vexKilled
+scoreboard objectives remove villagerKilled
+scoreboard objectives remove vindicatorKilled
+scoreboard objectives remove wanderTraderKd
+
+scoreboard objectives remove witchKilled
+scoreboard objectives remove witherSkeletonKd
+scoreboard objectives remove wolfKilled
+scoreboard objectives remove zombieKilled
+scoreboard objectives remove zombiePiglinKd
+scoreboard objectives remove zombieVillagerKd
