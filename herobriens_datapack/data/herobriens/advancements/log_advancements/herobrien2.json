@@ -32,4 +32,5 @@
             "trigger": "minecraft:impossible"
         }
     },
+    "parent": "herobriens:herobrien1"
 }
