@@ -1,5 +1,5 @@
 # HeroBriens-Datapack
-<h1>A Custom Advancement Data Pack<h1>
+<h2><b>A Custom Advancement Data Pack</b><h2>
 
 <p>to install this datapack, you have to clone this repo and add this in your minecraft data pack folder.
 make a minecraft world, when you in, type this in a command block: /reload.
