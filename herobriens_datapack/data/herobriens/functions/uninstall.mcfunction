@@ -1,5 +1,5 @@
-#MINE
-#ground blocks category
+#MINE CATEGORY
+#ground blocks
 scoreboard objectives remove grassBlock
 scoreboard objectives remove dirt
 scoreboard objectives remove coarseDirt
@@ -80,8 +80,7 @@ scoreboard objectives remove hayBale
 
 
 
-#KILL ENTITY
-#entity category
+#KILL ENTITY CATEGORY
 scoreboard objectives remove batKilled
 scoreboard objectives remove beeKilled
 scoreboard objectives remove blazeKilled
@@ -144,3 +143,170 @@ scoreboard objectives remove zombiePiglinKd
 scoreboard objectives remove zombieVillagerKd
 scoreboard objectives remove enderdragonKd
 scoreboard objectives remove witherKilled
+
+
+
+
+
+#USED BLOCKS CATEGORY
+#terracota
+scoreboard objectives remove PLwhiteTerracot
+scoreboard objectives remove PLorangeTerracot
+scoreboard objectives remove PLmagentaTerraco
+scoreboard objectives remove PLlightBlueTerra
+scoreboard objectives remove PLyellowTerracot
+scoreboard objectives remove PLlimeTerracotta
+scoreboard objectives remove PLpinkTerracotta
+scoreboard objectives remove PLgrayTerracotta
+scoreboard objectives remove PLlightGrayTerra
+scoreboard objectives remove PLcyanTerracotta
+scoreboard objectives remove PLpurpleTerracot
+scoreboard objectives remove PLblueTerracotta
+scoreboard objectives remove PLbrownTerracott
+scoreboard objectives remove PLgreenTerracott
+scoreboard objectives remove PLredTerracotta
+scoreboard objectives remove PLblackTerracott
+
+#ore blocks
+scoreboard objectives remove PLlapisLazuliBk
+scoreboard objectives remove PLgoldBlock
+scoreboard objectives remove PLironBlock
+scoreboard objectives remove PLdiamondBlock
+scoreboard objectives remove PLemeraldBlock
+scoreboard objectives remove PLquartzBlock
+scoreboard objectives remove PLcoalBlock
+scoreboard objectives remove PLnetheriteBlock
+scoreboard objectives remove PLredstoneBlock
+
+#plant stuff
+scoreboard objectives remove PLoakSapling
+scoreboard objectives remove PLspruceSapling
+scoreboard objectives remove PLbirchSapling
+scoreboard objectives remove PLjungleSapling
+scoreboard objectives remove PLacaciaSapling
+scoreboard objectives remove PLdarkOakSapling
+scoreboard objectives remove PLgrass
+scoreboard objectives remove PLfern
+scoreboard objectives remove PLdeadBush
+scoreboard objectives remove PLseaGrass
+scoreboard objectives remove PLseaPickle
+scoreboard objectives remove PLdandelion
+scoreboard objectives remove PLpoppy
+scoreboard objectives remove PLblueOrchid
+scoreboard objectives remove PLallium
+scoreboard objectives remove PLazureBluet
+scoreboard objectives remove PLredTulip
+scoreboard objectives remove PLorangeTulip
+scoreboard objectives remove PLwhiteTulip
+scoreboard objectives remove PLpinkTulip
+scoreboard objectives remove PLoxeyeDaisy
+scoreboard objectives remove PLcornflower
+scoreboard objectives remove PLlilyOfTheVally
+scoreboard objectives remove PLwitherRose
+scoreboard objectives remove PLcrimsonFungus
+scoreboard objectives remove PLwarpedFungus
+scoreboard objectives remove PLcrimsonRoots
+scoreboard objectives remove PLwarpedRoots
+scoreboard objectives remove PLnetherSprouts
+scoreboard objectives remove PLweepingVines
+scoreboard objectives remove PLtwistingVines
+scoreboard objectives remove PLchorusPlant
+scoreboard objectives remove PLchorusFlower
+scoreboard objectives remove PLvines
+scoreboard objectives remove PLlilyPads
+scoreboard objectives remove PLsunFlower
+scoreboard objectives remove PLlilac
+scoreboard objectives remove PLroseBush
+scoreboard objectives remove PLpeony
+scoreboard objectives remove PLtallGrass
+scoreboard objectives remove PLlargeFern
+scoreboard objectives remove PLtubeCoral
+scoreboard objectives remove PLbrainCoral
+scoreboard objectives remove PLbubbleCoral
+scoreboard objectives remove PLfireCoral
+scoreboard objectives remove PLhornCoral
+scoreboard objectives remove PLdeadBrainCoral
+scoreboard objectives remove PLdeadBubblCoral
+scoreboard objectives remove PLdeadFireCoral
+scoreboard objectives remove PLdeadHornCoral
+scoreboard objectives remove PLdeadTubeCoral
+scoreboard objectives remove PLtubeCoralFan
+scoreboard objectives remove PLbrainCoralFan
+scoreboard objectives remove PLbubbleCoralFan
+scoreboard objectives remove PLfireCoralFan
+scoreboard objectives remove PLhornCoralFan
+scoreboard objectives remove PLdedTubCoralFan
+scoreboard objectives remove PLdedBrenCorlFan
+scoreboard objectives remove PLdedBubblCorlFn
+scoreboard objectives remove PLdeadFireCorlFn
+scoreboard objectives remove PLdeadHornCorlFn
+scoreboard objectives remove PLbeeNest
+
+
+
+
+
+#PICK UP CATEGORY
+#plant stuff
+scoreboard objectives remove PUoakSapling
+scoreboard objectives remove PUspruceSapling
+scoreboard objectives remove PUbirchSapling
+scoreboard objectives remove PUjungleSapling
+scoreboard objectives remove PUacaciaSapling
+scoreboard objectives remove PUdarkOakSapling
+scoreboard objectives remove PUgrass
+scoreboard objectives remove PUfern
+scoreboard objectives remove PUdeadBush
+scoreboard objectives remove PUseaGrass
+scoreboard objectives remove PUseaPickle
+scoreboard objectives remove PUdandelion
+scoreboard objectives remove PUpoppy
+scoreboard objectives remove PUblueOrchid
+scoreboard objectives remove PUallium
+scoreboard objectives remove PUazureBluet
+scoreboard objectives remove PUredTulip
+scoreboard objectives remove PUorangeTulip
+scoreboard objectives remove PUwhiteTulip
+scoreboard objectives remove PUpinkTulip
+scoreboard objectives remove PUoxeyeDaisy
+scoreboard objectives remove PUcornflower
+scoreboard objectives remove PUlilyOfTheVally
+scoreboard objectives remove PUwitherRose
+scoreboard objectives remove PUcrimsonFungus
+scoreboard objectives remove PUwarpedFungus
+scoreboard objectives remove PUcrimsonRoots
+scoreboard objectives remove PUwarpedRoots
+scoreboard objectives remove PUnetherSprouts
+scoreboard objectives remove PUweepingVines
+scoreboard objectives remove PUtwistingVines
+scoreboard objectives remove PUchorusPlant
+scoreboard objectives remove PUchorusFlower
+scoreboard objectives remove PUvines
+scoreboard objectives remove PUlilyPads
+scoreboard objectives remove PUsunFlower
+scoreboard objectives remove PUlilac
+scoreboard objectives remove PUroseBush
+scoreboard objectives remove PUpeony
+scoreboard objectives remove PUtallGrass
+scoreboard objectives remove PUlargeFern
+scoreboard objectives remove PUtubeCoral
+scoreboard objectives remove PUbrainCoral
+scoreboard objectives remove PUbubbleCoral
+scoreboard objectives remove PUfireCoral
+scoreboard objectives remove PUhornCoral
+scoreboard objectives remove PUdeadBrainCoral
+scoreboard objectives remove PUdeadBubblCoral
+scoreboard objectives remove PUdeadFireCoral
+scoreboard objectives remove PUdeadHornCoral
+scoreboard objectives remove PUdeadTubeCoral
+scoreboard objectives remove PUtubeCoralFan
+scoreboard objectives remove PUbrainCoralFan
+scoreboard objectives remove PUbubbleCoralFan
+scoreboard objectives remove PUfireCoralFan
+scoreboard objectives remove PUhornCoralFan
+scoreboard objectives remove PUdedTubCoralFan
+scoreboard objectives remove PUdedBrenCorlFan
+scoreboard objectives remove PUdedBubblCorlFn
+scoreboard objectives remove PUdeadFireCorlFn
+scoreboard objectives remove PUdeadHornCorlFn
+scoreboard objectives remove PUbeeNest
